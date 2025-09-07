@@ -206,16 +206,6 @@ python -m pytest tests/
 python benchmarks/performance_test.py
 ```
 
----
-
-## 🤝 Acknowledgments
-
-- **Prof. Mrigank Sharad** for academic supervision and guidance
-- **Uber Engineering Team** for QueryGPT architecture inspiration
-- **HuggingFace & LangChain Communities** for open-source tools and frameworks
-
----
-
 ## 📈 Future Work
 
 - [ ] Support for additional SAP modules (CO, HR, etc.)
