@@ -1,0 +1,33 @@
+# Database & Data Processing
+mysql-connector-python==8.4.0
+numpy
+pandas
+
+# Visualization
+plotly
+chart-studio
+
+# Environment Management
+python-dotenv
+
+# Web Scraping
+beautifulsoup4
+
+# AI/ML Frameworks
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-experimental
+langchain-groq
+langchain-huggingface
+
+# Vector/Embedding Libraries
+# or faiss-gpu for GPU support
+faiss-cpu  
+sentence-transformers
+
+# Additional Dependencies
+tiktoken
+huggingface_hub
+rank_bm25
